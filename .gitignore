@@ -1,0 +1,4 @@
+*.xz
+/qemu/
+/pkg/
+/src/
